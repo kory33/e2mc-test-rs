@@ -4,5 +4,6 @@ version = "0.1.0"
 edition = "2018"
 
 [dependencies]
-steven_shared = { git = "https://github.com/iceiix/stevenarella", rev = "1a9e8d40" }
-steven_blocks = { git = "https://github.com/iceiix/stevenarella", rev = "1a9e8d40" }
+steven_protocol = { git = "https://github.com/kory33/stevenarella", rev = "31f56ff" }
+steven_shared = { git = "https://github.com/kory33/stevenarella", rev = "31f56ff" }
+steven_blocks = { git = "https://github.com/kory33/stevenarella", rev = "31f56ff" }
